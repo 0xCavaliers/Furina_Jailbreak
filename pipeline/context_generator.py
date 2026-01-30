@@ -145,7 +145,7 @@ def generate(malicious_query, max_retries=3):
         raise ValueError("Please check your OPENAI_API_KEY")
 
     client = OpenAI(
-        base_url="https://xiaoai.plus/v1",
+        base_url=your_base_url,
         api_key=api_key,
     )
 
