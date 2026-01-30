@@ -117,13 +117,8 @@ def judge(text, category="general"):
     if not api_key:
         raise ValueError("Please set OPENAI_API_KEY environment variable")
 
-    # client = OpenAI(
-    #     base_url="https://xiaoai.plus/v1",
-    #     api_key=api_key,
-    # )
-
     client = OpenAI(
-        base_url="http://149.88.89.156:3002/v1",
+        base_url=your_base_url,
         api_key=api_key,
     )
 
