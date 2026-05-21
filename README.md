@@ -1,4 +1,4 @@
-# ICML 2026: Furina: Fragmented Uncertainty-Driven Refusal Instability Attack
+# 【ICML 2026】 Furina: Fragmented Uncertainty-Driven Refusal Instability Attack
 
 This repository contains the code for a multi-stage jailbreak / red-teaming pipeline built around decomposition, reasoning, probing, response collection, synthesis, and judging. It supports both a text-only pipeline and a vision-augmented pipeline.
 
@@ -18,7 +18,7 @@ This repository implements the pipeline view behind that idea: fragmented decomp
 
 ## Method Figure
 
-Pipeline overview figure: [Furina_overview.pdf](Furina_overview.pdf)
+![Furina overview](Furina_overview.png)
 
 ## Overview
 
