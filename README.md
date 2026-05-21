@@ -3,6 +3,8 @@
 > [!WARNING]
 > **For academic research and authorized red-team evaluation only. We do not support or condone misuse.**
 
+$${\color{red}\text{\textbf{Warning: This repo contains harmful model responses!!!}}}$$
+
 This repository contains the code for a multi-stage jailbreak / red-teaming pipeline built around decomposition, reasoning, probing, response collection, synthesis, and judging. It supports both a text-only pipeline and a vision-augmented pipeline.
 
 Repository: [0xCavaliers/Furina_Jailbreak](https://github.com/0xCavaliers/Furina_Jailbreak)
