@@ -7,6 +7,7 @@ $${\color{red}\text{\textbf{Warning: This repo contains harmful model responses!
 
 This repository contains the code for a multi-stage jailbreak / red-teaming pipeline built around decomposition, reasoning, probing, response collection, synthesis, and judging. It supports both a text-only pipeline and a vision-augmented pipeline.
 
+📄 Paper: [Furina: Fragmented Uncertainty-Driven Refusal Instability Attack](https://arxiv.org/pdf/2605.26158)
 Repository: [0xCavaliers/Furina_Jailbreak](https://github.com/0xCavaliers/Furina_Jailbreak)
 
 Warning: this repository accompanies a jailbreak / safety-evaluation research project and may produce harmful or offensive outputs during evaluation.
