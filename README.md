@@ -9,8 +9,6 @@ This repository contains the code for a multi-stage jailbreak / red-teaming pipe
 
 📄 Paper: [Furina: Fragmented Uncertainty-Driven Refusal Instability Attack](https://arxiv.org/pdf/2605.26158)
 
-Repository: [0xCavaliers/Furina_Jailbreak](https://github.com/0xCavaliers/Furina_Jailbreak)
-
 Warning: this repository accompanies a jailbreak / safety-evaluation research project and may produce harmful or offensive outputs during evaluation.
 
 The two main entrypoints are:
