@@ -9,7 +9,7 @@ This repository contains the code for a multi-stage jailbreak / red-teaming pipe
 
 📄 Paper: [Furina: Fragmented Uncertainty-Driven Refusal Instability Attack](https://arxiv.org/abs/2605.26158)
 
-🖼️ Poster: ![Furina_Poster](poster/furina_poster_work.pdf)
+🖼️ Poster: ![ICML2026_Furina_Poster](poster/furina_poster_work.pdf)
 
 Warning: this repository accompanies a jailbreak / safety-evaluation research project and may produce harmful or offensive outputs during evaluation.
 
